@@ -1,0 +1,21 @@
+{
+  "name": "shopping-library",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/shopping-library.umd.js",
+  "module": "fesm5/shopping-library.js",
+  "es2015": "fesm2015/shopping-library.js",
+  "esm5": "esm5/shopping-library.js",
+  "esm2015": "esm2015/shopping-library.js",
+  "fesm5": "fesm5/shopping-library.js",
+  "fesm2015": "fesm2015/shopping-library.js",
+  "typings": "shopping-library.d.ts",
+  "metadata": "shopping-library.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
